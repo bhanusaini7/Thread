@@ -1,1 +1,1 @@
-Thread App Clone Project
+Thread App Project
